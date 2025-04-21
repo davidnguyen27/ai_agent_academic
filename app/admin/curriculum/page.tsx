@@ -28,7 +28,7 @@ export default function CurriculumManagement() {
   const totalPages = 5;
 
   return (
-    <>
+    <div className="bg-white p-5 shadow-md rounded-2xl">
       <h1 className="text-2xl font-bold text-blue-900 mb-4">Curriculums</h1>
 
       <Breadcrumb>
@@ -121,6 +121,6 @@ export default function CurriculumManagement() {
           </PaginationContent>
         </Pagination>
       </div>
-    </>
+    </div>
   );
 }

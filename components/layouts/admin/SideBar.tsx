@@ -25,7 +25,7 @@ const navItems = [
   { label: "Assessments", icon: ClipboardCheck, href: "/admin/assessment" },
   { label: "Materials", icon: Users, href: "/admin/material" },
   { label: "Account", icon: UserCircle, href: "#" },
-  { label: "Subjects", icon: BookOpen, href: "#" },
+  { label: "abcd", icon: BookOpen, href: "#" },
   { label: "Settings", icon: Settings, href: "#" },
 ];
 
